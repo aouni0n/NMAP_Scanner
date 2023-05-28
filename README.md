@@ -1,4 +1,4 @@
-# NMAP_Scanne# Nmap Scan Automation
+# NMAP_Scanner Nmap Scan Automation
 
 This Python script allows you to automate Nmap scans in Kali Linux. It prompts you to enter the target IP address or hostname and the type of scan you want to perform (detailed or simple). The script then executes the corresponding Nmap scan using the `subprocess` module.
 
